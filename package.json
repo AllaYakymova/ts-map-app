@@ -1,0 +1,24 @@
+{
+  "name": "ts-map-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllaYakymova/ts-map-app.git"
+  },
+  "author": "Yakymova Alla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllaYakymova/ts-map-app/issues"
+  },
+  "homepage": "https://github.com/AllaYakymova/ts-map-app#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.4.2"
+  }
+}
